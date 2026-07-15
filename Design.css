@@ -1,0 +1,10 @@
+p{
+    color:red;
+    font-size:14px;
+    margin-top:5px;
+}
+#LoginMessage{
+    text-align:center;
+    font-size:18px;
+    font-weight:bold;
+}
